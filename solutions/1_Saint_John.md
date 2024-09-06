@@ -14,5 +14,5 @@ kill -9 593
 ```bash
 #more specified and elegant
 fuser -v /var/log/bad.log
-kill -9 593
+kill 593
 ```

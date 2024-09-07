@@ -1,4 +1,4 @@
-# sadservers-solutions
+# SadServers-solutions
 My solutions to SadServers challenges with some commentary.
 
 

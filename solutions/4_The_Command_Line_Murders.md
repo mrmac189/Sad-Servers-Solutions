@@ -1,4 +1,4 @@
-
+```bash
 cd clmystery/
 cat README.md 
 cat instructions 
@@ -21,3 +21,4 @@ grep CLUE ../crimescene
 comm -12 <(sort Museum_of_Bash_History) <(sort Rotary_Club) > 1
 comm -12 <(sort 1) <(sort Delta_SkyMiles) > 2
 comm -12 <(sort 2) <(sort Terminal_City_Library) > 3
+```

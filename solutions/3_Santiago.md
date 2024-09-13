@@ -1,6 +1,6 @@
 # Santiago
 https://sadservers.com/scenario/santiago
-- Typical find/grep challenge with some cut and sort. 
+- find/grep challenge with some cut and sort. 
 
 ##  1st iteration
 ```bash

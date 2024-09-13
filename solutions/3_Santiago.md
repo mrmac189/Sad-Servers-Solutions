@@ -1,6 +1,5 @@
 # Santiago
 https://sadservers.com/scenario/santiago
-- find/grep challenge with some cut and sort. 
 
 ##  1st iteration
 ```bash
